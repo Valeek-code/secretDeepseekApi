@@ -1,0 +1,14 @@
+{
+  "accent_name": "blue",
+  "accent_custom": "#6cb6ff",
+  "font_family": "Consolas",
+  "font_size": 16,
+  "prompt_path": "",
+  "scan_exclude_dirs": [],
+  "scan_exclude_files": [
+    "output",
+    "tests",
+    "src/ui"
+  ],
+  "last_project": "C:\\Users\\morty\\OneDrive\\Рабочий стол\\progs\\hub"
+}
